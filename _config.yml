@@ -16,7 +16,7 @@ timezone:
 
 title: Seth Xi # the main title
 
-tagline: A current undergraduate student majoring in Engineering Mechanics at Beihang University. Loves robots and dreams of becoming a full-stack engineer for robots. # it will display as the subtitle
+tagline: Loves robots and dreams of becoming a full-stack engineer for robots. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
