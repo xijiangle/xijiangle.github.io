@@ -1,20 +1,19 @@
 #  The contact options.
+- type: github
+  icon: 'fab fa-github'
+  url: 'https://github.com/xijiangle'
 
- - type: github
-    icon: 'fab fa-github'
-    url: 'https://github.com/xijiangle'
+- type: bilibili
+  icon: 'fab fa-bilibili'
+  url: 'https://space.bilibili.com/65815670'
 
-  - type: bilibili
-    icon: 'fab fa-bilibili'
-    url: 'https://space.bilibili.com/65815670'
+- type: zhihu
+  icon: 'fab fa-zhihu'
+  url: 'https://www.zhihu.com/people/nefelibata-82-16-10'
 
-  - type: zhihu
-    icon: 'fab fa-zhihu'
-    url: 'https://www.zhihu.com/people/nefelibata-82-16-10'
-
-  - type: email
-    icon: 'fas fa-envelope'
-    noscript: true
+- type: email
+  icon: 'fas fa-envelope'
+  noscript: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
